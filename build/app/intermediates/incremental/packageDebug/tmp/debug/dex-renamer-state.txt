@@ -1,0 +1,4 @@
+#Thu Jul 28 10:15:52 PKT 2022
+base.0=D\:\\CYBRNODE\\Week 2\\Password Manager App\\pass_gen_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
